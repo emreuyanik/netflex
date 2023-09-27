@@ -1,0 +1,36 @@
+body {
+  background-image: url(https://wallpapers.com/images/hd/netflix-background-gs7hjuwvv2g0e9fj.jpg);
+}
+
+h1 {
+  position: absolute;
+  top: 2%;
+  left: 45%;
+  color: rgb(182, 170, 148);
+  font-size: 100px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+form {
+  position: absolute;
+  top: 30%;
+  left: 45%;
+  color: rgb(243, 239, 231);
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#button {
+  display: flex;
+  background-color: #a83b10;
+  padding: 10px;
+  color: rgb(233, 226, 226);
+  border: none;
+  border-radius: 20px;
+  margin: 10px 200px;
+}
+
+#button:hover {
+  background-color: #3f2e2a;
+}
