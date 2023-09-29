@@ -4,18 +4,19 @@ body {
 
 h1 {
   position: absolute;
-  top: 2%;
-  left: 45%;
-  color: rgb(182, 170, 148);
+  top: 0;
+  left: 40%;
+  color: rgb(223, 148, 9);
   font-size: 100px;
   font-weight: bold;
-  padding: 20px;
+  margin-top: 0;
 }
 
 form {
   position: absolute;
-  top: 30%;
-  left: 45%;
+  background-color: rgba(0, 0, 0, 0.4);
+  top: 20%;
+  left: 40%;
   color: rgb(243, 239, 231);
   font-size: 15px;
   font-weight: bold;
